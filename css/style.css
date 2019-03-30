@@ -99,7 +99,7 @@ figcaption {
   content: ".";
   display: block;
   clear: both;
-  visibility: 
+  visibility: hidden
 }
 
 [class*="col-"] {
