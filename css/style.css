@@ -73,7 +73,9 @@ figcaption {
 
 /*/////// MEDIA ///////*/
 
-  img, video, 
+  img, video, audio {
+    
+  }
 
 /*/////// LAYOUT ///////*/
 
