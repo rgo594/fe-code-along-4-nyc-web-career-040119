@@ -121,5 +121,6 @@ figcaption {
 /*/////// SECTIONS ///////*/
 
 section {
-  margin-bottom:;
+  padding: 20px;
+  margin-bottom: 20px;
 }
