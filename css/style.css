@@ -126,7 +126,9 @@ figcaption {
   box-sizing: border-box;
 }
 
-header
+header {
+  
+}
 
 section {
   padding: 20px;
